@@ -1,3 +1,10 @@
+> [!WARNING]
+> **This repository has been archived and is no longer maintained.**
+> The code is provided for historical reference and may contain unpatched
+> or unknown vulnerabilities. It should not be used in production systems.
+
+---
+
 # DeepLynx Machine Learning
 
 The DeepLynx Machine Learning (ML) Adapter is a generic adapter that receives data from DeepLynx, programmatically runs the machine learning, and imports the machine learning data into [DeepLynx](https://github.com/idaholab/Deep-Lynx). Then, Jupyter Notebooks can be customized according to the project for building the machine learning models and performing prediction analysis of incoming data using an existing model.
